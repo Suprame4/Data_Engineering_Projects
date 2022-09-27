@@ -8,4 +8,6 @@
 1. <ins> Linux and Shell Scripting </ins>
 * This project applies my abilities of Linux and shelling scripting to complete a fictional scenario as a linux developer at a top-tech company. 
 
-2. <ins> ETL and Data Pipelines with Shell, Airflow and Kafka </ins>
+2. <ins> Building Data Pipelines with Airflow </ins>
+
+3. <ins> Building Data Pipelines with Kafka </ins>
