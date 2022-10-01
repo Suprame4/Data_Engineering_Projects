@@ -16,3 +16,6 @@ of work.
 
 My role is to create a script **backup.sh** which automatically backs up 
 any of these files that have been updated within the past 24 hours. 
+
+The cronjob created for the scenario 
+![cronjob](cronjob.png)
