@@ -11,3 +11,5 @@
 2. <ins> Building Data Pipelines with Airflow </ins>
 
 3. <ins> Building Data Pipelines with Kafka </ins>
+
+4. <ins> Relational Database Admin Tasks </ins>
