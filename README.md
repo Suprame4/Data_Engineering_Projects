@@ -13,3 +13,5 @@
 3. <ins> Building Data Pipelines with Kafka </ins>
 
 4. <ins> Building Data Pipelies with Shell </ins>
+* Create a shell scripts to extract, transform, and load data 
+* Create and populate a PostgreSQL table 
