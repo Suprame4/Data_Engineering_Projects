@@ -9,7 +9,7 @@ The ETL shell pipeline for this project will complete the following:
 * Load the data in the csv file into a table in PostgreSQL database.
 
 ## Output
-![CommandPrompt](CommandPrompt.png)
+![CommandPrompt](commandPrompt.png)
 
 ## Notable Linux commands
 
