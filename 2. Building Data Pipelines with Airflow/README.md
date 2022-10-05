@@ -1,6 +1,6 @@
 ## Description 
 * Explore the anatomy of of a DAG, create a DAG and submit it 
-![AirflowImage](airflowImage.png)
+![AirflowImage](apacheAirflow.png) 
 
 * The key advantages of Apache Airflow’s approach to representing data pipelines as DAGs is that they are expressed as code, which makes your data pipelines more maintainable, testable, and collaborative
 
