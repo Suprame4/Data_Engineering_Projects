@@ -9,6 +9,8 @@
 * This project applies my abilities of Linux and shelling scripting to complete a fictional scenario as a linux developer at a top-tech company. 
 
 2. <ins> Building Data Pipelines with Airflow </ins>
+* Apache Airflow is a great open source workflow orchestration tool that lets you build and run workflows
+* This project will create a Directed Acyclic Graph (**DAG**) for an Apache Airflow
 
 3. <ins> Building Data Pipelines with Kafka </ins>
 
