@@ -10,7 +10,7 @@
 
 2. <ins> Building Data Pipelines with Airflow </ins>
 * Apache Airflow is a great open source workflow orchestration tool that lets you build and run workflows
-* This project will create a Directed Acyclic Graph (**DAG**) for an Apache Airflow
+* This project will collect data available in different formats, and consolidate it into a single file 
 
 3. <ins> Building Data Pipelines with Kafka </ins>
 
