@@ -11,6 +11,8 @@ Create a streaming data pipeline by performing the following steps:
 * Customize the consumer program to write into a MySQL database table
 * Verify that streamed data is being collected in the database table
 
+![Apache](kafkaImage.png)
+
 ## Scenario 
 I am assigned the role of data engineer at a data analytics consulting company and tasked with the following project that aims to decongest the national highways by analyzing the road traffic from different toll plazas. Each highway is operated by a different toll operator with different IT setup that use different file formats.
 
