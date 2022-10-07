@@ -13,6 +13,8 @@
 * This project will collect data available in different formats, and consolidate it into a single file 
 
 3. <ins> Building Data Pipelines with Kafka </ins>
+* Apache Kafka is a very popular open source event streaming pipeline
+* This project will create a data pipeline that collects streaming data and loads it into a database using Kafka  
 
 4. <ins> Building Data Pipelies with Shell </ins>
 * Create a shell scripts to extract, transform, and load data 
