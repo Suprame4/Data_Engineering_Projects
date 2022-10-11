@@ -19,3 +19,6 @@
 4. <ins> Building Data Pipelies with Shell </ins>
 * Create a shell scripts to extract, transform, and load data 
 * Create and populate a PostgreSQL table 
+
+5. <ins> Data Modeling with MySQL, PostgreSQL, and IBM Db2 </ins>
+* Apply my knowledge and skills to design databases, create tables, and load data 
