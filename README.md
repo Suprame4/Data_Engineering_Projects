@@ -20,6 +20,6 @@
 * Create a shell scripts to extract, transform, and load data 
 * Create and populate a PostgreSQL table 
 
-5. <ins> Data Modeling with MySQL, PostgreSQL, and IBM Db2 </ins>
+5. <ins> Data Warehousing with Postgres </ins>
 * Apply my knowledge and skills to design and load data into a data warehouse using facts and dimension tables 
 * Write aggregation queries using **CUBE** and **ROLLUP** functions and create materialized query tables (materialized view)
