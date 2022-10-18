@@ -12,8 +12,15 @@ I have been assigned the role of a data engineer at a solid waste management com
 * total waste collected per truck type per city
 * total waste collected per truck type per station per city
 
+
+## Design
 The solid waste management company has provided a sample of the data they wish to collect:
-PIC 
+![SampleData](sampleData.png)
+
+
+
 
 I will implement a **star schema** for this data warehouse due to ease of querying the data and .... The fact and dimension tables are defined below in the ERD: 
+
+![ERD](wasteERD.png)
 
