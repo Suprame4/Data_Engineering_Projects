@@ -25,5 +25,5 @@
 * Write aggregation queries using **CUBE** and **ROLLUP** functions and create materialized query tables (materialized view)
 
 6. <ins> NoSQL with MongoDB, Cassandra and IBM Cloudant </ins>
-7. * This project applies my abilities to work with several NoSQL databases to move and analyze data
-8. * Move data from one type of database to another and run basic queries on various databases
+* This project applies my abilities to work with several NoSQL databases to move and analyze data
+* Move data from one type of database to another and run basic queries on various databases
