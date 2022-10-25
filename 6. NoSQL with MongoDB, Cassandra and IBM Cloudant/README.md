@@ -1,6 +1,12 @@
 ## Description
 * This project applies my abilities to work with several NoSQL databases to move and analyze data
 * Move data from one type of database to another and run basic queries on various databases
+* Query data in a Cloudant database
+* Import data into a MongoDB database
+* Query data in a MongoDB database
+* Export data from MongoDB
+* Import data into a Cassandra database
+* Query data in a Cassandra database
 
 ## Scenario
 
@@ -11,3 +17,5 @@ NoSQL Databases used for this lab:
 * MongoDB (Document)
 * Cassandra (Column)
 * IBM Cloudant (Document)
+
+
