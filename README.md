@@ -6,7 +6,7 @@
 ## Projects 
 ---
 1. <ins> Linux and Shell Scripting </ins>
-* This project applies my abilities of Linux and shelling scripting to complete a fictional scenario as a linux developer at a top-tech company. 
+* This project applies my abilities of Linux and shell scripting to complete a fictional scenario as a linux developer at a top-tech company. 
 
 2. <ins> Building Data Pipelines with Airflow </ins>
 * Apache Airflow is a great open source workflow orchestration tool that lets you build and run workflows
@@ -16,7 +16,7 @@
 * Apache Kafka is a very popular open source event streaming pipeline
 * This project will create a data pipeline that collects streaming data and loads it into a database using Kafka  
 
-4. <ins> Building Data Pipelies with Shell </ins>
+4. <ins> Building Data Pipelines with Shell </ins>
 * Create a shell scripts to extract, transform, and load data 
 * Create and populate a PostgreSQL table 
 
