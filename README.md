@@ -29,5 +29,5 @@
 * Move data from one type of database to another and run basic queries on various databases
 
 7. <ins> Data Engineering and Machine Learning with Spark </ins>
-* Loading...
-* Loading...
+* Use Apache Spark for Data Engineering and Machine Learning 
+* Create a Spark application end-to-end that includes ETL, model training and deployment using IBM Watson Machine learning
