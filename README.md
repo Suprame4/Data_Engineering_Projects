@@ -27,3 +27,7 @@
 6. <ins> NoSQL with MongoDB, Cassandra and IBM Cloudant </ins>
 * This project applies my abilities to work with several NoSQL databases to move and analyze data
 * Move data from one type of database to another and run basic queries on various databases
+
+7. <ins> Data Engineering and Machine Learning with Spark </ins>
+* Loading...
+* Loading...
