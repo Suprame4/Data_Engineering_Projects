@@ -30,4 +30,4 @@
 
 7. <ins> Data Engineering and Machine Learning with Spark </ins>
 * Use Apache Spark for Data Engineering and Machine Learning 
-* Create a Spark application end-to-end that includes ETL, model training and deployment using IBM Watson Machine learning
+* Create a Spark application end-to-end that includes ETL and model training
