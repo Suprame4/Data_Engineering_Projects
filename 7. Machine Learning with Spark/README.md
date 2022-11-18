@@ -3,7 +3,7 @@
 * Intro to Spark ML library (**MLlib**) to perform ML operations using DataFrame-based APIs 
 
 ## Spark
-PIC 
+![SparkImage](ApacheSparkImage.png)
 
 Apache Spark is an open-source in-memory application framework for distributed data processing and iterative analysis on massive data volumes. Spark is "in-memory" which means that all operations happen within the memory or RAM. 
 
